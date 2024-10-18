@@ -11,8 +11,8 @@
 ### 1. Клонирование репозитория
 
 ```sh
-$ git clone <URL репозитория>
-$ cd <название репозитория>
+$ git clone https://github.com/Caxaro4ekPixel/MaxbitsolutionTes
+$ cd MaxbitsolutionTes
 ```
 
 ### 2. Установка зависимостей
